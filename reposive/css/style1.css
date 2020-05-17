@@ -1,0 +1,20 @@
+*{
+    margin: 3px;
+  padding: 4px;
+
+}
+:root{
+    --navbar-height:59;
+
+}
+#navbar{
+    display: flex;
+    align-items: center;
+    position: relative;
+    border: red solid 1px;
+    
+}
+ul{
+ display:flex ;   
+ list-style: none;
+}

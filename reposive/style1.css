@@ -1,0 +1,15 @@
+
+*{
+    margin: 6cm;
+    padding: 7pt;
+}
+:root{
+    --navbar-height:59;
+
+}
+#navbar{
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+}
